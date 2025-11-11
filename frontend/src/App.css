@@ -1,0 +1,5 @@
+.App { text-align: center; }
+table { width: 80%; margin: 20px auto; border-collapse: collapse; }
+th, td { border: 1px solid #ddd; padding: 8px; }
+th { cursor: pointer; background-color: #33003e91; }
+th:hover { background-color: #000000ff; }
